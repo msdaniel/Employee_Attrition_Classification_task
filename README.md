@@ -10,7 +10,7 @@ Understanding and predicting employee attrition is vital for organizations to pr
 
 ### 1.2 Methodology
 
-The analysis in this report focuses on the application of Logistic Regression and Neural Networks as machine learning classification algorithms. We utilize the [IBM HR Analytics Employee Attrition & Performance dataset][(link_to_dataset_on_data.world)](https://data.world/aaizemberg/hr-employee-attrition/workspace/file?filename=WA_Fn-UseC_-HR-Employee-Attrition.tsv.txt) to explore the predictive capabilities of these models.
+The analysis in this report focuses on the application of Logistic Regression and Neural Networks as machine learning classification algorithms. We utilize the [IBM HR Analytics Employee Attrition & Performance dataset] https://data.world/aaizemberg/hr-employee-attrition/workspace/file?filename=WA_Fn-UseC_-HR-Employee-Attrition.tsv.txt to explore the predictive capabilities of these models.
 
 ## 2. Datasets
 
